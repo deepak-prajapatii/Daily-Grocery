@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Daily Grocery</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="app_description">Shop
+    Groceries items through daily grocery app <br /> Online super market store at best price.</string>
+    <string name="search_bar">Search</string>
+    <string name="top_discounted_items_header">Top Discounted Items</string>
+    <string name="top_discounted_items_image">Discounted Items Image</string>
+    <string name="select_category">Select Category</string>
+    <string name="category">Category</string>
+    <string name="category_item_image">Category Item Image</string>
+    <string name="all_category">See More</string>
+    <string name="recently_viewed_items_header">Recently Viewed Items</string>
+    <string name="recently_viewed_items_image">Recent Items Image</string>
+    <string name="recently_viewed_items_name"></string>
+    <string name="recently_viewed_items_desc"></string>
+    <string name="recently_viewed_items_price"></string>
+    <string name="recently_viewed_items_quantity"></string>
+    <string name="back_to_previous_activity"></string>
+    <string name="product_details">Product Details</string>
+    <string name="product_details_image">Product Details Image</string>
+    <string name="product_details_name">Product Details Name</string>
+    <string name="product_details_description">Product Details Description</string>
+    <string name="product_details_price">Product Details Price</string>
+    <string name="product_details_quantity">Product Details Quantity</string>
+</resources>
